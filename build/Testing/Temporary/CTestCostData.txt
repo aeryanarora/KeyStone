@@ -1,0 +1,19 @@
+test_coding 6 0.00320684
+test_skiplist 6 0.00729236
+test_memtable 6 0.00207083
+test_wal 6 0.00750878
+test_bloom 6 0.00445064
+test_sstable 6 0.00812704
+test_write_batch 6 0.00164994
+test_db_basic 6 0.0158996
+test_db_recovery 6 0.155876
+test_db_compaction 6 0.146301
+test_thread_pool 6 0.0224377
+test_transaction 6 0.0157363
+test_codec 6 0.00147052
+test_tcp_transport 6 0.0222541
+test_replication_log 6 0.0073515
+test_replication_node 6 0.349609
+test_cluster_integration 6 1.94026
+test_fault_injection 6 3.15218
+---

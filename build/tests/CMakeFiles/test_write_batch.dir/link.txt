@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/test_write_batch.dir/test_write_batch.cc.o -o test_write_batch  ../libkvdb_core.a ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a 

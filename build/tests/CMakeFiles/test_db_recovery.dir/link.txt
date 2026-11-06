@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/test_db_recovery.dir/test_db_recovery.cc.o -o test_db_recovery  ../libkvdb_core.a ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a 

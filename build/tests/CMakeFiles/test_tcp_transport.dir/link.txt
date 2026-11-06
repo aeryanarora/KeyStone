@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/test_tcp_transport.dir/test_tcp_transport.cc.o -o test_tcp_transport  ../libkvdb_core.a ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a 

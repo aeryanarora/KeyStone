@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/test_replication_node.dir/test_replication_node.cc.o -o test_replication_node  ../libkvdb_core.a ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a 

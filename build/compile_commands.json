@@ -1,0 +1,404 @@
+[
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/common/crc32c.cc.o -c /work/src/common/crc32c.cc",
+  "file": "/work/src/common/crc32c.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/common/crc32c.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/common/logger.cc.o -c /work/src/common/logger.cc",
+  "file": "/work/src/common/logger.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/common/logger.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/common/file_util.cc.o -c /work/src/common/file_util.cc",
+  "file": "/work/src/common/file_util.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/common/file_util.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/memtable.cc.o -c /work/src/storage/memtable.cc",
+  "file": "/work/src/storage/memtable.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/memtable.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/write_batch.cc.o -c /work/src/storage/write_batch.cc",
+  "file": "/work/src/storage/write_batch.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/write_batch.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/wal.cc.o -c /work/src/storage/wal.cc",
+  "file": "/work/src/storage/wal.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/wal.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/bloom.cc.o -c /work/src/storage/bloom.cc",
+  "file": "/work/src/storage/bloom.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/bloom.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/sstable.cc.o -c /work/src/storage/sstable.cc",
+  "file": "/work/src/storage/sstable.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/sstable.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/db.cc.o -c /work/src/storage/db.cc",
+  "file": "/work/src/storage/db.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/db.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/storage/db_compaction.cc.o -c /work/src/storage/db_compaction.cc",
+  "file": "/work/src/storage/db_compaction.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/storage/db_compaction.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/concurrency/thread_pool.cc.o -c /work/src/concurrency/thread_pool.cc",
+  "file": "/work/src/concurrency/thread_pool.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/concurrency/thread_pool.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/concurrency/transaction.cc.o -c /work/src/concurrency/transaction.cc",
+  "file": "/work/src/concurrency/transaction.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/concurrency/transaction.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/net/codec.cc.o -c /work/src/net/codec.cc",
+  "file": "/work/src/net/codec.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/net/codec.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/net/event_loop.cc.o -c /work/src/net/event_loop.cc",
+  "file": "/work/src/net/event_loop.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/net/event_loop.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/net/tcp_server.cc.o -c /work/src/net/tcp_server.cc",
+  "file": "/work/src/net/tcp_server.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/net/tcp_server.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/net/tcp_client.cc.o -c /work/src/net/tcp_client.cc",
+  "file": "/work/src/net/tcp_client.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/net/tcp_client.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/replication/replication_log.cc.o -c /work/src/replication/replication_log.cc",
+  "file": "/work/src/replication/replication_log.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/replication/replication_log.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/replication/replication_transport.cc.o -c /work/src/replication/replication_transport.cc",
+  "file": "/work/src/replication/replication_transport.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/replication/replication_transport.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/replication/replication_node.cc.o -c /work/src/replication/replication_node.cc",
+  "file": "/work/src/replication/replication_node.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/replication/replication_node.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/server/kv_server.cc.o -c /work/src/server/kv_server.cc",
+  "file": "/work/src/server/kv_server.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/server/kv_server.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb_core.dir/src/client/kv_client.cc.o -c /work/src/client/kv_client.cc",
+  "file": "/work/src/client/kv_client.cc",
+  "output": "CMakeFiles/kvdb_core.dir/src/client/kv_client.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb-server.dir/src/server/main.cc.o -c /work/src/server/main.cc",
+  "file": "/work/src/server/main.cc",
+  "output": "CMakeFiles/kvdb-server.dir/src/server/main.cc.o"
+},
+{
+  "directory": "/work/build",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb-cli.dir/src/client/main.cc.o -c /work/src/client/main.cc",
+  "file": "/work/src/client/main.cc",
+  "output": "CMakeFiles/kvdb-cli.dir/src/client/main.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/work/third_party/googletest/googlemock/include -I/work/third_party/googletest/googlemock -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -O2 -g -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /work/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/work/third_party/googletest/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -O2 -g -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /work/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/work/third_party/googletest/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/work/third_party/googletest/googletest/include -I/work/third_party/googletest/googletest -O2 -g -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /work/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/work/third_party/googletest/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -O2 -g -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /work/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/work/third_party/googletest/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_coding.dir/test_coding.cc.o -c /work/tests/test_coding.cc",
+  "file": "/work/tests/test_coding.cc",
+  "output": "tests/CMakeFiles/test_coding.dir/test_coding.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_skiplist.dir/test_skiplist.cc.o -c /work/tests/test_skiplist.cc",
+  "file": "/work/tests/test_skiplist.cc",
+  "output": "tests/CMakeFiles/test_skiplist.dir/test_skiplist.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_memtable.dir/test_memtable.cc.o -c /work/tests/test_memtable.cc",
+  "file": "/work/tests/test_memtable.cc",
+  "output": "tests/CMakeFiles/test_memtable.dir/test_memtable.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_wal.dir/test_wal.cc.o -c /work/tests/test_wal.cc",
+  "file": "/work/tests/test_wal.cc",
+  "output": "tests/CMakeFiles/test_wal.dir/test_wal.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_bloom.dir/test_bloom.cc.o -c /work/tests/test_bloom.cc",
+  "file": "/work/tests/test_bloom.cc",
+  "output": "tests/CMakeFiles/test_bloom.dir/test_bloom.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_sstable.dir/test_sstable.cc.o -c /work/tests/test_sstable.cc",
+  "file": "/work/tests/test_sstable.cc",
+  "output": "tests/CMakeFiles/test_sstable.dir/test_sstable.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_write_batch.dir/test_write_batch.cc.o -c /work/tests/test_write_batch.cc",
+  "file": "/work/tests/test_write_batch.cc",
+  "output": "tests/CMakeFiles/test_write_batch.dir/test_write_batch.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_db_basic.dir/test_db_basic.cc.o -c /work/tests/test_db_basic.cc",
+  "file": "/work/tests/test_db_basic.cc",
+  "output": "tests/CMakeFiles/test_db_basic.dir/test_db_basic.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_db_recovery.dir/test_db_recovery.cc.o -c /work/tests/test_db_recovery.cc",
+  "file": "/work/tests/test_db_recovery.cc",
+  "output": "tests/CMakeFiles/test_db_recovery.dir/test_db_recovery.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_db_compaction.dir/test_db_compaction.cc.o -c /work/tests/test_db_compaction.cc",
+  "file": "/work/tests/test_db_compaction.cc",
+  "output": "tests/CMakeFiles/test_db_compaction.dir/test_db_compaction.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_thread_pool.dir/test_thread_pool.cc.o -c /work/tests/test_thread_pool.cc",
+  "file": "/work/tests/test_thread_pool.cc",
+  "output": "tests/CMakeFiles/test_thread_pool.dir/test_thread_pool.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_transaction.dir/test_transaction.cc.o -c /work/tests/test_transaction.cc",
+  "file": "/work/tests/test_transaction.cc",
+  "output": "tests/CMakeFiles/test_transaction.dir/test_transaction.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_codec.dir/test_codec.cc.o -c /work/tests/test_codec.cc",
+  "file": "/work/tests/test_codec.cc",
+  "output": "tests/CMakeFiles/test_codec.dir/test_codec.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_tcp_transport.dir/test_tcp_transport.cc.o -c /work/tests/test_tcp_transport.cc",
+  "file": "/work/tests/test_tcp_transport.cc",
+  "output": "tests/CMakeFiles/test_tcp_transport.dir/test_tcp_transport.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_replication_log.dir/test_replication_log.cc.o -c /work/tests/test_replication_log.cc",
+  "file": "/work/tests/test_replication_log.cc",
+  "output": "tests/CMakeFiles/test_replication_log.dir/test_replication_log.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_replication_node.dir/test_replication_node.cc.o -c /work/tests/test_replication_node.cc",
+  "file": "/work/tests/test_replication_node.cc",
+  "output": "tests/CMakeFiles/test_replication_node.dir/test_replication_node.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_cluster_integration.dir/test_cluster_integration.cc.o -c /work/tests/test_cluster_integration.cc",
+  "file": "/work/tests/test_cluster_integration.cc",
+  "output": "tests/CMakeFiles/test_cluster_integration.dir/test_cluster_integration.cc.o"
+},
+{
+  "directory": "/work/build/tests",
+  "command": "/usr/bin/c++  -I/work/src -I/work/tests -isystem /work/third_party/googletest/googletest/include -isystem /work/third_party/googletest/googletest -isystem /work/third_party/googletest/googlemock/include -isystem /work/third_party/googletest/googlemock -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/test_fault_injection.dir/test_fault_injection.cc.o -c /work/tests/test_fault_injection.cc",
+  "file": "/work/tests/test_fault_injection.cc",
+  "output": "tests/CMakeFiles/test_fault_injection.dir/test_fault_injection.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -DBENCHMARK_VERSION=\\\"v1.9.1\\\" -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/benchmark.cc.o -c /work/third_party/benchmark/src/benchmark.cc",
+  "file": "/work/third_party/benchmark/src/benchmark.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o -c /work/third_party/benchmark/src/benchmark_api_internal.cc",
+  "file": "/work/third_party/benchmark/src/benchmark_api_internal.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/benchmark_name.cc.o -c /work/third_party/benchmark/src/benchmark_name.cc",
+  "file": "/work/third_party/benchmark/src/benchmark_name.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_name.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/benchmark_register.cc.o -c /work/third_party/benchmark/src/benchmark_register.cc",
+  "file": "/work/third_party/benchmark/src/benchmark_register.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_register.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/benchmark_runner.cc.o -c /work/third_party/benchmark/src/benchmark_runner.cc",
+  "file": "/work/third_party/benchmark/src/benchmark_runner.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_runner.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/check.cc.o -c /work/third_party/benchmark/src/check.cc",
+  "file": "/work/third_party/benchmark/src/check.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/check.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/colorprint.cc.o -c /work/third_party/benchmark/src/colorprint.cc",
+  "file": "/work/third_party/benchmark/src/colorprint.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/colorprint.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/commandlineflags.cc.o -c /work/third_party/benchmark/src/commandlineflags.cc",
+  "file": "/work/third_party/benchmark/src/commandlineflags.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/commandlineflags.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/complexity.cc.o -c /work/third_party/benchmark/src/complexity.cc",
+  "file": "/work/third_party/benchmark/src/complexity.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/complexity.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/console_reporter.cc.o -c /work/third_party/benchmark/src/console_reporter.cc",
+  "file": "/work/third_party/benchmark/src/console_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/console_reporter.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/counter.cc.o -c /work/third_party/benchmark/src/counter.cc",
+  "file": "/work/third_party/benchmark/src/counter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/counter.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/csv_reporter.cc.o -c /work/third_party/benchmark/src/csv_reporter.cc",
+  "file": "/work/third_party/benchmark/src/csv_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/csv_reporter.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/json_reporter.cc.o -c /work/third_party/benchmark/src/json_reporter.cc",
+  "file": "/work/third_party/benchmark/src/json_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/json_reporter.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/perf_counters.cc.o -c /work/third_party/benchmark/src/perf_counters.cc",
+  "file": "/work/third_party/benchmark/src/perf_counters.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/perf_counters.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/reporter.cc.o -c /work/third_party/benchmark/src/reporter.cc",
+  "file": "/work/third_party/benchmark/src/reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/reporter.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/statistics.cc.o -c /work/third_party/benchmark/src/statistics.cc",
+  "file": "/work/third_party/benchmark/src/statistics.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/statistics.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/string_util.cc.o -c /work/third_party/benchmark/src/string_util.cc",
+  "file": "/work/third_party/benchmark/src/string_util.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/string_util.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/sysinfo.cc.o -c /work/third_party/benchmark/src/sysinfo.cc",
+  "file": "/work/third_party/benchmark/src/sysinfo.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/sysinfo.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark.dir/timers.cc.o -c /work/third_party/benchmark/src/timers.cc",
+  "file": "/work/third_party/benchmark/src/timers.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/timers.cc.o"
+},
+{
+  "directory": "/work/build/_deps/googlebenchmark-build/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/work/third_party/benchmark/include -I/work/third_party/benchmark/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -O2 -g -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/benchmark_main.dir/benchmark_main.cc.o -c /work/third_party/benchmark/src/benchmark_main.cc",
+  "file": "/work/third_party/benchmark/src/benchmark_main.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark_main.dir/benchmark_main.cc.o"
+},
+{
+  "directory": "/work/build/bench",
+  "command": "/usr/bin/c++  -I/work/src -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb-bench-cluster.dir/bench_cluster.cc.o -c /work/bench/bench_cluster.cc",
+  "file": "/work/bench/bench_cluster.cc",
+  "output": "bench/CMakeFiles/kvdb-bench-cluster.dir/bench_cluster.cc.o"
+},
+{
+  "directory": "/work/build/bench",
+  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -I/work/src -I/work/third_party/benchmark/include -O2 -g -DNDEBUG -std=c++20 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -o CMakeFiles/kvdb-bench-storage.dir/bench_storage.cc.o -c /work/bench/bench_storage.cc",
+  "file": "/work/bench/bench_storage.cc",
+  "output": "bench/CMakeFiles/kvdb-bench-storage.dir/bench_storage.cc.o"
+}
+]

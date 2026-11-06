@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG "CMakeFiles/kvdb-bench-cluster.dir/bench_cluster.cc.o" -o kvdb-bench-cluster  ../libkvdb_core.a 

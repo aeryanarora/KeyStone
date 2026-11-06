@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG "CMakeFiles/kvdb-server.dir/src/server/main.cc.o" -o kvdb-server  libkvdb_core.a 
